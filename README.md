@@ -9,12 +9,18 @@ clone the repository with
 'git clone https://github.com/MARSYXTECHNOLOGIESPRV/MEfetch'
 
 then, enter the directory
-'cd MEfetch'
-
+```
+cd MEfetch
+```
 build with:
-'cargo build'
-
+```
+cargo build
+```
 and the binary can be ran with
-'./target/debug/mefetch'
+```
+./target/debug/mefetch'
+```
 or
-'cargo run'
+```
+cargo run
+```
