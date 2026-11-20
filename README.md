@@ -15,11 +15,11 @@ cd MEfetch
 ```
 build with:
 ```
-cargo build
+cargo build --release
 ```
 and the binary can be ran with
 ```
-./target/debug/mefetch'
+./target/release/mefetch'
 ```
 or
 ```
