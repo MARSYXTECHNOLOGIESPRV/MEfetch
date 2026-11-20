@@ -6,8 +6,9 @@ A system info fetch utility for Mars OS written in rust
 
 # Installation
 clone the repository with
-'git clone https://github.com/MARSYXTECHNOLOGIESPRV/MEfetch'
-
+```
+git clone https://github.com/MARSYXTECHNOLOGIESPRV/MEfetch
+```
 then, enter the directory
 ```
 cd MEfetch
