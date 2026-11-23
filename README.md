@@ -17,6 +17,8 @@ build with:
 ```
 cargo build --release
 ```
+*(if rustup hasnt been configured yet, run ``` rustup default stable ``` before compiling)*
+
 and the binary can be ran with
 ```
 ./target/release/mefetch'
